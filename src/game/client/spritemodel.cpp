@@ -488,3 +488,9 @@ void CEngineSprite::DrawFrameOfSize( int frame, int x, int y, int iWidth, int iH
 	meshBuilder.End();
 	pMesh->Draw();
 }
+
+
+bool CEngineSprite::IsBIK()
+{
+	return ( m_hBIKMaterial != BIKMATERIAL_INVALID );
+}
