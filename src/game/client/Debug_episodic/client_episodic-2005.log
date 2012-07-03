@@ -1,0 +1,21 @@
+﻿Build started 7/2/2012 8:28:12 PM.
+     1>Project "C:\DeadSilent\src\game\client\client_episodic-2005.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug_episodic\Client Episodic.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         client_episodic-2005.vcxproj -> C:\DeadSilent\src\game\client\.\Debug_episodic\client.dll
+       CustomBuildStep:
+       Skipping target "CustomBuildStep" because all output files are up-to-date with respect to the input files.
+       FinalizeBuildStatus:
+         Deleting file ".\Debug_episodic\Client Episodic.unsuccessfulbuild".
+         Touching ".\Debug_episodic\Client Episodic.lastbuildstate".
+     1>Done Building Project "C:\DeadSilent\src\game\client\client_episodic-2005.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.64

@@ -1855,7 +1855,7 @@ void CTempEnts::MuzzleFlash( const Vector& pos1, const QAngle& angles, int type,
 #if !defined ( HL2MP )	//  HACK for hl2mp, make the default muzzleflash the smg muzzleflash for weapons like the RPG that are using 'type 0'
 	default:
 		// There's no supported muzzle flash for the type specified!
-		Assert(0);
+		//Assert(0);
 		break;
 #endif // HL2MP
 	}
